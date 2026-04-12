@@ -1,5 +1,13 @@
-# 《一人企业方法论》V2.1
+# 《一人企业方法论》
 
+## Agent 技能集
+
+> 2026/04 新增
+
+![](src/images/20260412180200.png)
+
+[技能集网站](https://opc-skills.ft07.com/) | [视频讲解](https://www.bilibili.com/video/BV1JMDQBiEjx)
+ 
 ## 推演沙箱
 
 1. 为了更好理解方法论，我们用 AI 构建了一个可以推演复盘的创业沙箱 —— [《方糖真实创业模拟器》](https://ft07.com/real-business-simulator/)，可以结合方法论进行策略推演，用户反馈不错。
